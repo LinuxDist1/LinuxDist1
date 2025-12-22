@@ -103,13 +103,13 @@ where I collaborate, discuss ideas, and learn with others.
 
 ## 📫 Contact
 <p>
-  <a href="https://github.com/Cryptocoin">
+  <a href="https://github.com/LinuxDist1">
     <img src="https://img.shields.io/badge/GitHub-Cryptocoin-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.youtube.com/@Cryptocoin">
+  <a href="https://www.youtube.com/@Cryptocoinhalt">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube"/>
   </a>
-  <a href="https://discord.gg/CareConnect">
+  <a href="https://discord.gg/SsXnNRg9tZ">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
