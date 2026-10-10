@@ -70,8 +70,8 @@ data class Developer(
     <td align="center" width="33%"><b>🛠 Tools</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark&perline=4" alt="C++, JavaScript, HTML, CSS"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,react,lua,mysql,gradle&theme=dark&perline=3" alt="Java, Kotlin, React, Lua, MySQL, Gradle"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark&perline=4" alt="C++, JavaScript, HTML, CSS, Java, React, Lua"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,react,lua,mysql,gradle&theme=dark&perline=3" alt="Kotlin, MySQL, Gradle"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="Git, GitHub"/></td>
   </tr>
 </table>
