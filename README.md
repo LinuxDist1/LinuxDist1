@@ -102,39 +102,6 @@ data class Developer(
 </p>
 -->
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%"/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinuxDist1&theme=tokyonight" alt="Profile details" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinuxDist1&theme=tokyonight" alt="Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=LinuxDist1&theme=tokyonight&hide_border=true&background=1A1B27&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinuxDist1&theme=tokyonight" alt="Repos per language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinuxDist1&theme=tokyonight" alt="Most commit language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinuxDist1&theme=tokyonight&utcOffset=1" alt="Productive time" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinuxDist1&theme=tokyo-night&bg_color=1A1B27&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
-
-<!-- Contribution snake: requires .github/workflows/snake.yml (see that file). Delete this block if you don't use it. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinuxDist1/LinuxDist1/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinuxDist1/LinuxDist1/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/LinuxDist1/LinuxDist1/output/github-snake-dark.svg" alt="Contribution snake animation"/>
-  </picture>
-</p>
-
 <!-- ═══════════════════════════ GOALS ═══════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%"/>
 
