@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/LinuxDist1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Hobby+%26+Learning+Programmer+%F0%9F%87%A9%F0%9F%87%AA;Building+real-world+projects;Minecraft+plugins+%E2%9B%8F%EF%B8%8F+%E2%80%A2+FiveM+systems+%F0%9F%9A%93;Learning+Java%2C+Kotlin+%26+React;Open+Source+Portfolio" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Hobby+%26+Learning+Programmer+%F0%9F%87%A9%F0%9F%87%AA;Building+real-world+projects;Minecraft+plugins+%E2%9B%8F%EF%B8%8F+%E2%80%A2+FiveM+systems+%F0%9F%9A%93;Coding+in+Java%2C+Kotlin%2C+Lua+%26+React;Learning+TypeScript%2C+Next.js+%26+Docker;Open+Source+Portfolio" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -47,8 +47,11 @@ data class Developer(
         "FiveM Systems",
         "Web Development",
     ),
+    val languages: List<String> = listOf(
+        "Java", "Kotlin", "Lua", "React",
+    ),
     val learning: List<String> = listOf(
-        "Java", "Kotlin", "React",
+        "TypeScript", "Next.js", "Docker",
     ),
     val motto: String = "Keep coding fun.",
 )
@@ -70,9 +73,9 @@ data class Developer(
     <td align="center" width="33%"><b>🛠 Tools</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,js,html,css&theme=dark&perline=4" alt="C++, JavaScript, HTML, CSS, Java, React, Lua"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,react,lua,mysql,gradle&theme=dark&perline=3" alt="Kotlin, MySQL, Gradle"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="Git, GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,lua,react,cpp,js,html,css&theme=dark&perline=4" alt="Java, Kotlin, Lua, React, C++, JavaScript, HTML, CSS"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,mysql,docker,linux,spring&theme=dark&perline=4" alt="TypeScript, Next.js, Tailwind CSS, Node.js, MySQL, Docker, Linux, Spring"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,gradle&theme=dark&perline=3" alt="Git, GitHub, Gradle"/></td>
   </tr>
 </table>
 
@@ -109,7 +112,8 @@ data class Developer(
 
 - [x] Start my programming journey
 - [ ] Strengthen my programming fundamentals
-- [ ] Learn **Java**, **Kotlin** & **React** in depth
+- [ ] Master **Java**, **Kotlin**, **Lua** & **React**
+- [ ] Learn **TypeScript**, **Next.js** & **Docker**
 - [ ] Build a strong technical portfolio
 - [x] Keep programming fun as a long-term hobby, always
 
